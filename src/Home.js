@@ -19,7 +19,7 @@ const Home = () => {
             <br />
             <div className='gap-6 flex pl-12'>
               <div>
-                <button className='pr-2 lg:pr-0'>
+                <button className='pr-2 lg:pr-4'>
                   <a href='https://x.com/kavishan25?t=Y76GeMMjTDiNbqmXDudBqA&s=09'>
                     Twitter
                   </a>
